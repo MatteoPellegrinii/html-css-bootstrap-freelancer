@@ -36,4 +36,16 @@ body{
     text-decoration: none;
     color: white;
     cursor: pointer;
+    display: inline-block;
+    width: auto;
+}
+.link i{
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    border: solid 1px white;
+    line-height: 2;
+}
+footer{
+    font-size: 8px;
 }
