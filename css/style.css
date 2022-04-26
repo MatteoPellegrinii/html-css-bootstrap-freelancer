@@ -25,6 +25,9 @@ body{
 .images .line{
     background-color: black;
 }
+.credenziali .line{
+    background-color: black;
+}
 .images h2{
     margin-top: 30px;
 }
